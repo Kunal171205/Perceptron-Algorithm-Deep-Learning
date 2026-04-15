@@ -33,7 +33,7 @@ The notebook demonstrates core concepts such as:
 ## 📂 Project Structure
 📁 Deep-Learning-1
 │
-├── codefile.ipynb # Main notebook
+#├── codefile.ipynb # Main notebook
 ├── datasets/ # Dataset (if applicable)
 └── README.md
 
